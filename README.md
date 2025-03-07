@@ -1,2 +1,2 @@
 # CrackingCode
-List of Programming Solurions in Python
+List of Programming Solutions in Python
